@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "vYCPLlUERCP23lryDAYLIpNm48QotyP+9JmQyxRi9Brj0gXqTgjZJmZA/yf9zamkkdXlOq/86ofk4EZsVwSs+A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\asama\\Documents\\GitHub\\KPL-Test-Project\\WebAPI-KPL\\WebAPI-KPL\\WebAPI-KPL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\asama\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\asama\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\asama\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\asama\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\asama\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\asama\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
