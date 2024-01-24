@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebAPI-KPL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+58291f63103ac8fc834af2c14aac2477f0bf03da")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+41cbb4be5f9e62c53d35249dcb3ee895b378b5ee")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebAPI-KPL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebAPI-KPL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
