@@ -1,6 +1,0 @@
-@WebAPI_KPL_HostAddress = http://localhost:5128
-
-GET {{WebAPI_KPL_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
